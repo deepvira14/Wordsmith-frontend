@@ -1,0 +1,73 @@
+{"books": [
+  {
+  "id":1,
+  "question": "Ravage",
+  "answer" : 0,
+  "option" : [
+		"To Devastate",
+		"To acquire",
+		"To hurt someone unintentionally"
+	],
+  "hint" : "Fears that a war could ravage their country",
+	"selected": null
+
+},
+  {
+  "id":2,
+  "question": "Ostracize",
+  "answer" : 2,
+  "option" : [
+    "Being obstacle for someone",
+		"To influence",
+		"Exclude from a society or group."
+		
+	],
+  "hint" : "A group of people were ostracized, and persecuted for centuries",
+	"selected": null
+
+},
+{
+  "id":3,
+  "question": "Ravenous",
+  "answer" : 1,
+  "option" : [
+    "Self Dependent",
+		"Voracious",
+		"A ray of hope"
+		
+	],
+  "hint" : "I'd been out all day and was ravenous",
+	"selected": null
+
+},
+{
+  "id":4,
+  "question": "Subdue",
+  "answer" : 1,
+  "option" : [
+    "To become Happy",
+		"Vanquish",
+		"Thinking Positive"
+		
+	],
+  "hint" : "He managed to subdue an instinct to applaud",
+	"selected": null
+
+},
+{
+  "id":5,
+  "question": "Spry",
+  "answer" : 0,
+  "option" : [
+    "Active",
+		"Looking for Opportunities",
+		"Manifesting"
+		
+	],
+  "hint" : "He continued to look spry into his eighties",
+	"selected": null
+
+}
+
+
+]}
